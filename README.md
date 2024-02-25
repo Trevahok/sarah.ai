@@ -5,3 +5,7 @@ This LangChain-based agent has access to the following tools :
 - Wintr — Scrape the provided URL from the SERP API to get more information from any webpage.
 - Arxiv — Access recent publications data via Arxiv API and even get a summary of research papers.
 - GPT3 summarizer — Summarize data from any of the above using GPT3.
+
+## Demo
+https://youtu.be/Ni_PbXr6keM
+
