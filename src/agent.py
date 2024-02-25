@@ -41,8 +41,8 @@ agent_kwargs = {
 }
 
 # llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-instruct")
-llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-0125")
-# llm = ChatOpenAI(temperature=0, model="gpt-4-0125-preview")
+# llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-0125")
+llm = ChatOpenAI(temperature=0, model="gpt-4-0125-preview")
 
 
 memory = ConversationBufferWindowMemory(
