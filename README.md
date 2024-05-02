@@ -6,6 +6,11 @@ This LangChain-based agent has access to the following tools :
 - Arxiv — Access recent publications data via Arxiv API and even get a summary of research papers.
 - GPT3 summarizer — Summarize data from any of the above using GPT3.
 
+## Demo 
+Find a realtime demo here: https://sarah-ai.streamlit.app/
+
+Note: It works on GPT4 and OpenAI credits remaining. 
+
 ## Instructions
 1. Setup a venv
 `python3 -m venv venv`
